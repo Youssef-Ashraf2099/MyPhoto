@@ -19,13 +19,10 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" name="junit" level="application" />
     <orderEntry type="library" name="de.mindpipe.android.logging.log4j" level="application" />
     <orderEntry type="library" name="io.urf.apache.commons.configuration2.surf" level="application" />
     <orderEntry type="library" name="apache.lang.commons" level="application" />
-    <orderEntry type="library" name="build" level="project" />
-    <orderEntry type="library" name="x64" level="project" />
-    <orderEntry type="library" name="opencv-4100" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
